@@ -1,0 +1,259 @@
+{
+  "currentUserLogin": "jocooper7",
+  "threadUrl": "https://github.com/copilot/c/a797f240-dc2a-4bb7-ae28-42f7941b811e",
+  "threadName": "Seal Knowledge Copilot",
+  "messages": [
+    {
+      "id": "root",
+      "role": "user",
+      "createdAt": "",
+      "threadID": "",
+      "references": null
+    },
+    {
+      "id": "89bf8baa-928e-448d-8126-2bc254873a21",
+      "parentMessageID": "root",
+      "intent": "conversation",
+      "role": "user",
+      "content": "tell me about seals",
+      "createdAt": "2026-07-04T19:16:19.523288561Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "031cf4f9-9a67-41c3-818e-64f56fb6a93c",
+      "parentMessageID": "89bf8baa-928e-448d-8126-2bc254873a21",
+      "intent": "conversation",
+      "role": "assistant",
+      "content": "I'd be happy to tell you about seals! Here's an overview:\n\n## What Are Seals?\n\nSeals are marine mammals belonging to the family Phocidae. They're found in oceans and some freshwater environments, primarily in cold waters of the Northern and Southern Hemispheres.\n\n## Key Characteristics\n\n- **Body Structure**: Streamlined bodies with flippers instead of limbs, perfectly adapted for swimming\n- **Size**: Ranges from 3.5 feet (ringed seals) to 16 feet (elephant seals)\n- **Blubber Layer**: Thick layer of fat for insulation in cold water\n- **Ears**: No external ear flaps (unlike sea lions), just ear holes\n- **Whiskers**: Sensitive whiskers (vibrissae) help them detect prey\n\n## Behavior & Diet\n\n- **Diet**: Primarily fish and squid, though some species eat krill or other marine life\n- **Hunting**: Excellent divers with some species reaching depths over 3,000 feet\n- **Social Structure**: Generally less social than sea lions; often haul out on ice or rocks alone or in small groups\n- **Vocalizations**: Communicate underwater and on land with various calls and growls\n\n## Common Species\n\n- Harbor seals\n- Harp seals\n- Ringed seals\n- Leopard seals\n- Weddell seals\n- Elephant seals\n\n## Conservation\n\nMost seal species are doing relatively well, though some face threats from climate change (ice loss), pollution, and fishing nets. Several species are protected under marine mammal protection laws.\n\nIs there a specific aspect of seals you'd like to know more about?",
+      "createdAt": "2026-07-04T19:16:19.523354765Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "ba5d4ba6-e6a8-4ccc-aa99-2d38b35ebbb2",
+      "parentMessageID": "031cf4f9-9a67-41c3-818e-64f56fb6a93c",
+      "intent": "conversation",
+      "role": "user",
+      "content": "Bear species: Black Bear, Brown Bear, Polar Bear, Andean Bear (endangered), Panda Bear (endangered), Sloth Bear, Sun Bear (endangered), Himalayan Brown Bear (endangered). Created a similar list for the semi-aquatic animal seals.\" ",
+      "createdAt": "2026-07-04T19:17:07.534832048Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "3477b36f-6b8c-45f6-959f-af0197d67a35",
+      "parentMessageID": "ba5d4ba6-e6a8-4ccc-aa99-2d38b35ebbb2",
+      "intent": "conversation",
+      "role": "assistant",
+      "content": "Perfect! Here's a comprehensive list of seal species organized by conservation status, similar to your bear list:\n\n## Seal Species (Phocidae - True Seals & Otariidae - Eared Seals)\n\n### Healthy/Stable Species (Least Concern)\n- Harbor Seal\n- Harp Seal\n- Weddell Seal\n- Leopard Seal\n- Ringed Seal (most populations)\n\n### Vulnerable Species\n- Ladoga Seal (Vulnerable)\n- New Zealand Sea Lion (Vulnerable)\n- Steller Sea Lion - Western population (Vulnerable/Endangered)\n\n### Endangered Species\n- **Mediterranean Monk Seal** (Endangered) - ~700 individuals remaining\n- **Hawaiian Monk Seal** (Endangered/Critically Endangered)\n- **Saimaa Ringed Seal** (Endangered) - Freshwater subspecies found in Finland\n- **Caspian Seal** (Endangered)\n- **Galápagos Sea Lion** (Endangered)\n- **Australian Sea Lion** (Endangered)\n\n---\n\n### Key Threats to Seal Populations:\n- Climate change and sea ice loss\n- Pollution and microplastics\n- Fishing net entanglement\n- Habitat degradation\n- Disease outbreaks\n- Overhunting (in some regions)\n\nThe conservation picture for seals is mixed—while many common species like harbor and harp seals remain stable, several species (particularly monk seals and freshwater populations) face severe threats and require active protection efforts.",
+      "createdAt": "2026-07-04T19:17:07.535014503Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [
+        {
+          "query": "What are the different species of seals and their conservation status endangered vulnerable",
+          "results": [],
+          "agent_response": {
+            "type": "",
+            "text": {
+              "value": "",
+              "annotations": null
+            },
+            "bing_searches": null
+          },
+          "response_text": "Seals belong to the pinniped group and are broadly classified into two families: **Phocidae** (true or earless seals) and **Otariidae** (eared seals, including sea lions and fur seals). Below is an overview of notable seal species and their current **IUCN Red List conservation status** (focusing on those listed as **Endangered (EN)**, **Vulnerable (VU)**, and similar threatened categories):\n\n---\n\n### **True Seals (Phocidae)**\n\n#### **Endangered (EN)**\n- **Mediterranean Monk Seal (*Monachus monachus*)**\n  - Status: Endangered\n  - Estimated Population: ~700 individuals\n- **Saimaa Ringed Seal (*Pusa hispida saimensis*)**\n  - Status: Endangered\n  - Native to: Finland; freshwater subspecies\n\n#### **Vulnerable (VU)**\n- **Hawaiian Monk Seal (*Neomonachus schauinslandi*)**\n  - Status: Endangered (Some sources list as Critically Endangered)\n- **Ladoga Seal (*Pusa hispida ladogensis*)**\n  - Status: Vulnerable\n- **Caspian Seal (*Pusa caspica*)**\n  - Status: Endangered\n\n---\n\n### **Eared Seals / Fur Seals & Sea Lions (Otariidae)**\n\n#### **Endangered (EN)**\n- **Galápagos Sea Lion (*Zalophus wollebaeki*)**\n  - Status: Endangered\n- **Australian Sea Lion (*Neophoca cinerea*)**\n  - Status: Endangered\n\n#### **Vulnerable (VU)**\n- **New Zealand Sea Lion (*Phocarctos hookeri*)**\n  - Status: Vulnerable\n- **Steller Sea Lion (*Eumetopias jubatus*)** (Western population)\n  - Status: Near Threatened (Eastern), Endangered/Vulnerable (Western)\n- **Subantarctic Fur Seal (*Arctocephalus tropicalis*)**\n  - Status: Least Concern (but certain populations are at risk)\n\n---\n\n### **Other Notable Species and Their Status**\n\n- **Harp Seal (*Pagophilus groenlandicus*)** – Least Concern\n- **Harbor Seal (*Phoca vitulina*)** – Least Concern\n- **Weddell Seal (*Leptonychotes weddellii*)** – Least Concern\n- **Leopard Seal (*Hydrurga leptonyx*)** – Least Concern\n\n---\n\n### **Summary Table (Endangered and Vulnerable Seals)**\n\n| Species                        | Family    | IUCN Status     |\n|---------------------------------|-----------|-----------------|\n| Mediterranean Monk Seal         | Phocidae  | Endangered (EN) |\n| Hawaiian Monk Seal              | Phocidae  | Endangered (EN) |\n| Saimaa Ringed Seal              | Phocidae  | Endangered (EN) |\n| Caspian Seal                    | Phocidae  | Endangered (EN) |\n| Galápagos Sea Lion              | Otariidae | Endangered (EN) |\n| Australian Sea Lion             | Otariidae | Endangered (EN) |\n| New Zealand Sea Lion            | Otariidae | Vulnerable (VU) |\n| Ladoga Seal                     | Phocidae  | Vulnerable (VU) |\n\n---\n\n### **References & Further Reading**\n- IUCN Red List of Threatened Species: [iucnredlist.org](https://www.iucnredlist.org/search?query=seal&searchType=species)\n- NOAA Fisheries: [Seal and Sea Lion Species Directory](https://www.fisheries.noaa.gov/species-directory)\n\nIf you want a **comprehensive list with all seal species and their conservation status** or details on a particular species, let me know!",
+          "type": "web-search"
+        }
+      ],
+      "skillExecutions": [
+        {
+          "slug": "bing-search",
+          "status": "completed",
+          "arguments": "{\"user_prompt\": \"What are the different species of seals and their conservation status endangered vulnerable\"}",
+          "references": [
+            {
+              "query": "What are the different species of seals and their conservation status endangered vulnerable",
+              "results": [],
+              "agent_response": {
+                "type": "",
+                "text": {
+                  "value": "",
+                  "annotations": null
+                },
+                "bing_searches": null
+              },
+              "response_text": "Seals belong to the pinniped group and are broadly classified into two families: **Phocidae** (true or earless seals) and **Otariidae** (eared seals, including sea lions and fur seals). Below is an overview of notable seal species and their current **IUCN Red List conservation status** (focusing on those listed as **Endangered (EN)**, **Vulnerable (VU)**, and similar threatened categories):\n\n---\n\n### **True Seals (Phocidae)**\n\n#### **Endangered (EN)**\n- **Mediterranean Monk Seal (*Monachus monachus*)**\n  - Status: Endangered\n  - Estimated Population: ~700 individuals\n- **Saimaa Ringed Seal (*Pusa hispida saimensis*)**\n  - Status: Endangered\n  - Native to: Finland; freshwater subspecies\n\n#### **Vulnerable (VU)**\n- **Hawaiian Monk Seal (*Neomonachus schauinslandi*)**\n  - Status: Endangered (Some sources list as Critically Endangered)\n- **Ladoga Seal (*Pusa hispida ladogensis*)**\n  - Status: Vulnerable\n- **Caspian Seal (*Pusa caspica*)**\n  - Status: Endangered\n\n---\n\n### **Eared Seals / Fur Seals & Sea Lions (Otariidae)**\n\n#### **Endangered (EN)**\n- **Galápagos Sea Lion (*Zalophus wollebaeki*)**\n  - Status: Endangered\n- **Australian Sea Lion (*Neophoca cinerea*)**\n  - Status: Endangered\n\n#### **Vulnerable (VU)**\n- **New Zealand Sea Lion (*Phocarctos hookeri*)**\n  - Status: Vulnerable\n- **Steller Sea Lion (*Eumetopias jubatus*)** (Western population)\n  - Status: Near Threatened (Eastern), Endangered/Vulnerable (Western)\n- **Subantarctic Fur Seal (*Arctocephalus tropicalis*)**\n  - Status: Least Concern (but certain populations are at risk)\n\n---\n\n### **Other Notable Species and Their Status**\n\n- **Harp Seal (*Pagophilus groenlandicus*)** – Least Concern\n- **Harbor Seal (*Phoca vitulina*)** – Least Concern\n- **Weddell Seal (*Leptonychotes weddellii*)** – Least Concern\n- **Leopard Seal (*Hydrurga leptonyx*)** – Least Concern\n\n---\n\n### **Summary Table (Endangered and Vulnerable Seals)**\n\n| Species                        | Family    | IUCN Status     |\n|---------------------------------|-----------|-----------------|\n| Mediterranean Monk Seal         | Phocidae  | Endangered (EN) |\n| Hawaiian Monk Seal              | Phocidae  | Endangered (EN) |\n| Saimaa Ringed Seal              | Phocidae  | Endangered (EN) |\n| Caspian Seal                    | Phocidae  | Endangered (EN) |\n| Galápagos Sea Lion              | Otariidae | Endangered (EN) |\n| Australian Sea Lion             | Otariidae | Endangered (EN) |\n| New Zealand Sea Lion            | Otariidae | Vulnerable (VU) |\n| Ladoga Seal                     | Phocidae  | Vulnerable (VU) |\n\n---\n\n### **References & Further Reading**\n- IUCN Red List of Threatened Species: [iucnredlist.org](https://www.iucnredlist.org/search?query=seal&searchType=species)\n- NOAA Fisheries: [Seal and Sea Lion Species Directory](https://www.fisheries.noaa.gov/species-directory)\n\nIf you want a **comprehensive list with all seal species and their conservation status** or details on a particular species, let me know!",
+              "type": "web-search"
+            }
+          ],
+          "callId": "toolu_vrtx_01L8e923gdArCogrJ8mHHtLE"
+        }
+      ]
+    },
+    {
+      "id": "dea308c7-9056-4f46-9bd3-33c54cc54f4c",
+      "parentMessageID": "3477b36f-6b8c-45f6-959f-af0197d67a35",
+      "intent": "conversation",
+      "role": "user",
+      "content": "Input: A species is the lowest and most specific level of the biological classification ranks. Knowledge: Taxonomy is the foundation of biological sciences. It involves identifying, naming, and categorizing, especially organisms that are living or that once lived, into a hierarchical system that reflects their evolutionary relationships. By grouping species based on shared traits, taxonomy allows scientists to study the diversity of life in an organized and meaningful way. Input: A species is endangered if it has a very high risk of extinction. Knowledge:",
+      "createdAt": "2026-07-04T19:18:25.74863567Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "a474eeb3-240b-4d93-addd-c849107085f9",
+      "parentMessageID": "dea308c7-9056-4f46-9bd3-33c54cc54f4c",
+      "intent": "conversation",
+      "role": "assistant",
+      "content": "I understand you're providing me with foundational definitions and context. Let me clarify what you're sharing:\n\n**Input 1: Species Definition**\n- A species is the lowest and most specific level of biological classification ranks\n\n**Knowledge 1: Taxonomy Context**\n- Taxonomy is the foundation of biological sciences\n- It involves identifying, naming, and categorizing organisms (living or extinct) into a hierarchical system\n- This system reflects evolutionary relationships\n- By grouping species based on shared traits, taxonomy allows scientists to study life's diversity in an organized way\n\n**Input 2: Endangered Status Definition**\n- A species is endangered if it has a very high risk of extinction\n\n---\n\nAre you building a knowledge base or framework? I can help you:\n\n1. **Expand these definitions** with more biological classification ranks (Kingdom, Phylum, Class, Order, Family, Genus, Species)\n2. **Connect them to the seal examples** we just discussed (e.g., Mediterranean Monk Seal as a specific species with endangered status)\n3. **Create a structured learning document** or taxonomy guide\n4. **Apply this to other animal groups** you're studying\n\nWhat would be most helpful for what you're working on?",
+      "createdAt": "2026-07-04T19:18:25.748707735Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "489c2079-47f4-4d6c-b0af-07b4ff8764e2",
+      "parentMessageID": "a474eeb3-240b-4d93-addd-c849107085f9",
+      "intent": "conversation",
+      "role": "user",
+      "content": "create a similar knowledge section for input 2 summarizing what classifies an endangered species",
+      "createdAt": "2026-07-04T19:20:16.287134865Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "9d97d1e2-0dc0-468d-b774-3bc87682bffa",
+      "parentMessageID": "489c2079-47f4-4d6c-b0af-07b4ff8764e2",
+      "intent": "conversation",
+      "role": "assistant",
+      "content": "# Input 2: Endangered Species Classification\n\n**Input:** A species is endangered if it has a very high risk of extinction.\n\n**Knowledge:** \n\nA species is classified as \"Endangered\" based on specific criteria established by conservation organizations, primarily the **IUCN (International Union for Conservation of Nature)**. An endangered species meets one or more of the following conditions:\n\n- **Population Size**: The species has experienced a dramatic decline in population numbers, typically losing 50-90% of its population over a short timeframe (10 years or three generations)\n\n- **Geographic Range**: The species has a severely restricted geographic range or habitat area, making it vulnerable to localized environmental changes or catastrophic events\n\n- **Reproductive Decline**: The species has declining reproductive rates, low birth rates, or high mortality rates that threaten population recovery\n\n- **Habitat Loss**: Critical habitat is being destroyed, fragmented, or degraded faster than the species can adapt or relocate\n\n- **External Threats**: The species faces ongoing threats such as poaching, pollution, disease, climate change, predation, or competition from invasive species\n\n- **Small Population Stability**: Even if population numbers stabilize, the total population is so small that genetic diversity is limited and the species remains vulnerable to extinction\n\n**Conservation Implications:** Species classified as Endangered receive legal protection under laws like the Endangered Species Act (ESA) in the United States and similar legislation globally. Conservation efforts focus on habitat restoration, population management, legal protection from hunting/trade, and breeding programs to prevent extinction.",
+      "createdAt": "2026-07-04T19:20:16.287185325Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "24ca3841-b8ab-4bb5-bbb8-3340840f7ba9",
+      "parentMessageID": "9d97d1e2-0dc0-468d-b774-3bc87682bffa",
+      "intent": "conversation",
+      "role": "user",
+      "content": "Given this information, are harp seals endagered?",
+      "createdAt": "2026-07-04T19:21:05.592995254Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "26ebfafd-4f63-4f1d-bb91-a5f8c4d09c64",
+      "parentMessageID": "24ca3841-b8ab-4bb5-bbb8-3340840f7ba9",
+      "intent": "conversation",
+      "role": "assistant",
+      "content": "No, **harp seals are not endangered**.\n\nBased on the information provided:\n\n**Harp Seal Conservation Status: Least Concern**\n\nAccording to the IUCN Red List classification system, harp seals (*Pagophilus groenlandicus*) are listed as **\"Least Concern,\"** which is the lowest threat category. This means they do **not** meet the criteria for endangered status.\n\n**Why Harp Seals Are Not Endangered:**\n\n- **Stable Population**: Harp seals have a relatively large and stable population (estimated at several hundred thousand individuals)\n- **Adequate Geographic Range**: They inhabit multiple regions across the North Atlantic and Arctic waters, providing geographic distribution\n- **No Critical Decline**: Unlike endangered seals such as the Mediterranean Monk Seal (~700 individuals) or Hawaiian Monk Seal, harp seals have not experienced the dramatic population collapse required to classify them as endangered\n- **Lower Immediate Threats**: While they do face some threats (climate change affecting ice habitat, hunting), these have not reduced their populations to critically low levels\n\n**Contrast with Endangered Seals:**\n- Mediterranean Monk Seal: ~700 individuals (Endangered)\n- Harp Seal: Several hundred thousand individuals (Least Concern)\n\nSo while harp seals face environmental challenges like other marine mammals, they do not currently qualify as an endangered species.",
+      "createdAt": "2026-07-04T19:21:05.593046726Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "228a55a9-3bd8-4b45-961f-887bd93a6597",
+      "parentMessageID": "26ebfafd-4f63-4f1d-bb91-a5f8c4d09c64",
+      "intent": "conversation",
+      "role": "user",
+      "content": "Hawaiian and Mediterranean monk seals are endangered species of seals. Make a table of the following about these species: life expectancy, diet, location of habitat(s), reason the species is endangered, and organizations that can donate to help conservation efforts. Rows should be the listed traits. Each column should be for the 2 species.",
+      "createdAt": "2026-07-04T19:21:59.86561725Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [],
+      "skillExecutions": []
+    },
+    {
+      "id": "f4163019-de76-47d3-ba3c-7220cc158da6",
+      "parentMessageID": "228a55a9-3bd8-4b45-961f-887bd93a6597",
+      "intent": "conversation",
+      "role": "assistant",
+      "content": "| **Trait** | **Hawaiian Monk Seal** | **Mediterranean Monk Seal** |\n|-----------|----------------------|---------------------------|\n| **Life Expectancy** | 25–35 years in the wild | 20–30 years in the wild |\n| **Diet** | Fish (eels, reef fish), cephalopods (squid, octopus), crustaceans (lobsters, crabs, shrimp) | Fish, squid, octopus, crustaceans, eels |\n| **Habitat Location(s)** | Northwestern Hawaiian Islands and main Hawaiian Islands (sandy beaches and adjacent shallow waters/coral reefs) | Mediterranean Sea and eastern Atlantic Ocean (Greece, Turkey, Cyprus, northwest Africa including Mauritania and Madeira); isolated underwater caves for breeding |\n| **Reasons Endangered** | Entanglement in marine debris; human disturbance; shark predation; habitat loss and climate change; low juvenile survival; disease (toxoplasmosis, other outbreaks) | Habitat destruction (coastal development/tourism); deliberate killing by fishermen; overfishing (food supply reduction); pollution; fishing gear entanglement |\n| **Conservation Organizations** | NOAA Fisheries; Ke Kai Ola Hospital (Marine Mammal Center); Hawaiian Monk Seal Research Program; Hawaii Marine Animal Response (HMAR); The Nature Conservancy | MOm—The Hellenic Society for the Study & Protection of the Monk Seal; WWF Mediterranean Monk Seal Conservation Program; Monk Seal Alliance; IUCN/SSC Pinniped Specialist Group; CBD-Habitat Foundation |",
+      "createdAt": "2026-07-04T19:21:59.865879006Z",
+      "threadID": "a797f240-dc2a-4bb7-ae28-42f7941b811e",
+      "references": [
+        {
+          "query": "Mediterranean monk seal life expectancy diet habitat endangered reasons conservation organizations",
+          "results": [],
+          "agent_response": {
+            "type": "",
+            "text": {
+              "value": "",
+              "annotations": null
+            },
+            "bing_searches": null
+          },
+          "response_text": "Here’s a concise guide on the Mediterranean monk seal:\n\n**1. Life Expectancy:**  \nMediterranean monk seals (Monachus monachus) typically live up to **20–30 years** in the wild, though many do not reach old age due to various threats.\n\n**2. Diet:**  \nTheir diet mainly consists of **fish, squid, octopus, crustaceans, and eels**. They are opportunistic feeders and prefer shallow coastal waters where prey is abundant.\n\n**3. Habitat:**  \nThese seals inhabit the **Mediterranean Sea and the eastern Atlantic Ocean** (notably along the coasts of Greece, Turkey, Cyprus, and a few parts of northwest Africa, especially Mauritania and Madeira). They seek out **isolated caves with underwater entrances** for breeding and resting, a shift from their historical use of open beaches, due to human disturbance.\n\n**4. Endangered Reasons:**  \nThe Mediterranean monk seal is **critically endangered** due to:\n- **Habitat destruction** (coastal development and tourism disturbing breeding sites)\n- **Deliberate killing** (by fishermen who see them as competition or because they damage fishing gear)\n- **Overfishing** (reducing their food supply)\n- **Pollution**\n- **Entanglement in fishing gear**\n  \nTheir global population is estimated at around **700 individuals**.\n\n**5. Conservation Organizations:**  \nKey organizations working for their protection include:\n- **MOm—The Hellenic Society for the Study & Protection of the Monk Seal** (Greece)\n- **The Mediterranean Monk Seal Conservation Program (WWF)**\n- **The Monk Seal Alliance**\n- **IUCN/SSC Pinniped Specialist Group**\n- **CBD-Habitat Foundation (Spain/Mauritania)**\n\nThese groups focus on habitat protection, rescue and rehabilitation, community engagement, and influencing policy to protect the species.\n\n**Summary:**  \nThe Mediterranean monk seal is a critically endangered species, living in Mediterranean and eastern Atlantic coastal caves, threatened mainly by human activities. Several NGOs and international bodies are actively involved in their conservation.",
+          "type": "web-search"
+        },
+        {
+          "query": "Hawaiian monk seal life expectancy diet habitat endangered reasons conservation organizations",
+          "results": [],
+          "agent_response": {
+            "type": "",
+            "text": {
+              "value": "",
+              "annotations": null
+            },
+            "bing_searches": null
+          },
+          "response_text": "Here’s a detailed overview of the Hawaiian monk seal, covering life expectancy, diet, habitat, endangered status and reasons, as well as conservation organizations:\n\n---\n\n**1. Life Expectancy:**  \nHawaiian monk seals (*Neomonachus schauinslandi*) typically live between 25–30 years in the wild, though some individuals may reach up to 35 years.\n\n---\n\n**2. Diet:**  \nTheir diet consists mainly of:\n- Fish (such as eels and reef fish)\n- Cephalopods (squid and octopus)\n- Crustaceans (lobsters, crabs, and shrimp)\n\nThey primarily hunt along the ocean floor, foraging in coral reefs and on sandy or rocky bottoms.\n\n---\n\n**3. Habitat:**  \nHawaiian monk seals are endemic to the Hawaiian Islands. Their primary habitat includes:\n- Sandy beaches (for resting, pupping, and molting)\n- Adjacent shallow waters and coral reefs (for feeding)\nThey are most commonly found in the Northwestern Hawaiian Islands, but a growing number of seals now inhabit the main Hawaiian Islands.\n\n---\n\n**4. Endangered Reasons:**  \nThe Hawaiian monk seal is critically endangered for several reasons, including:\n- **Entanglement in marine debris:** Seals can become trapped in discarded fishing gear and other debris.\n- **Human disturbance:** Interactions with beachgoers, boats, and domestic animals disrupt their resting and breeding.\n- **Predation:** Shark attacks (especially by tiger sharks) and predation on pups are significant causes of mortality.\n- **Habitat loss and climate change:** Rising sea levels and increased storm frequency erode critical beaches.\n- **Low juvenile survival:** Pups and young seals face high mortality due to malnutrition and predation.\n- **Disease:** Outbreaks of toxoplasmosis (from cat feces) and other diseases have harmed population growth.\n\n---\n\n**5. Conservation Organizations:**  \nSeveral organizations are dedicated to Hawaiian monk seal conservation, including:\n- **NOAA Fisheries (National Oceanic and Atmospheric Administration):** Leads research, rescue, and rehabilitation operations.\n- **The Marine Mammal Center’s Ke Kai Ola Hospital:** Specializes in stranding response and seal rehabilitation in Kona, Hawaii.\n- **Hawaiian Monk Seal Research Program (HMSRP):** A NOAA program focused on understanding monk seal biology and threats.\n- **Hawaii Marine Animal Response (HMAR):** Nonprofit that monitors seals and educates the public.\n- **The Nature Conservancy and other NGOs:** Sometimes support habitat protection projects.\n\n---\n\n**Summary:**  \nThe Hawaiian monk seal, with a lifespan of around 30 years, feeds on fish, cephalopods, and crustaceans, dwelling mostly in the Northwestern Hawaiian Islands’ beaches and reefs. Endangered due to human impacts, habitat loss, predation, disease, and entanglement, they are the focus of intense conservation efforts by federal agencies and local nonprofits. Public awareness and community involvement are important for their survival.\n\nIf you’d like more in-depth information about any aspect, just let me know!",
+          "type": "web-search"
+        }
+      ],
+      "skillExecutions": [
+        {
+          "slug": "bing-search",
+          "status": "completed",
+          "arguments": "{\"user_prompt\": \"Hawaiian monk seal life expectancy diet habitat endangered reasons conservation organizations\"}",
+          "references": [
+            {
+              "query": "Hawaiian monk seal life expectancy diet habitat endangered reasons conservation organizations",
+              "results": [],
+              "agent_response": {
+                "type": "",
+                "text": {
+                  "value": "",
+                  "annotations": null
+                },
+                "bing_searches": null
+              },
+              "response_text": "Here’s a detailed overview of the Hawaiian monk seal, covering life expectancy, diet, habitat, endangered status and reasons, as well as conservation organizations:\n\n---\n\n**1. Life Expectancy:**  \nHawaiian monk seals (*Neomonachus schauinslandi*) typically live between 25–30 years in the wild, though some individuals may reach up to 35 years.\n\n---\n\n**2. Diet:**  \nTheir diet consists mainly of:\n- Fish (such as eels and reef fish)\n- Cephalopods (squid and octopus)\n- Crustaceans (lobsters, crabs, and shrimp)\n\nThey primarily hunt along the ocean floor, foraging in coral reefs and on sandy or rocky bottoms.\n\n---\n\n**3. Habitat:**  \nHawaiian monk seals are endemic to the Hawaiian Islands. Their primary habitat includes:\n- Sandy beaches (for resting, pupping, and molting)\n- Adjacent shallow waters and coral reefs (for feeding)\nThey are most commonly found in the Northwestern Hawaiian Islands, but a growing number of seals now inhabit the main Hawaiian Islands.\n\n---\n\n**4. Endangered Reasons:**  \nThe Hawaiian monk seal is critically endangered for several reasons, including:\n- **Entanglement in marine debris:** Seals can become trapped in discarded fishing gear and other debris.\n- **Human disturbance:** Interactions with beachgoers, boats, and domestic animals disrupt their resting and breeding.\n- **Predation:** Shark attacks (especially by tiger sharks) and predation on pups are significant causes of mortality.\n- **Habitat loss and climate change:** Rising sea levels and increased storm frequency erode critical beaches.\n- **Low juvenile survival:** Pups and young seals face high mortality due to malnutrition and predation.\n- **Disease:** Outbreaks of toxoplasmosis (from cat feces) and other diseases have harmed population growth.\n\n---\n\n**5. Conservation Organizations:**  \nSeveral organizations are dedicated to Hawaiian monk seal conservation, including:\n- **NOAA Fisheries (National Oceanic and Atmospheric Administration):** Leads research, rescue, and rehabilitation operations.\n- **The Marine Mammal Center’s Ke Kai Ola Hospital:** Specializes in stranding response and seal rehabilitation in Kona, Hawaii.\n- **Hawaiian Monk Seal Research Program (HMSRP):** A NOAA program focused on understanding monk seal biology and threats.\n- **Hawaii Marine Animal Response (HMAR):** Nonprofit that monitors seals and educates the public.\n- **The Nature Conservancy and other NGOs:** Sometimes support habitat protection projects.\n\n---\n\n**Summary:**  \nThe Hawaiian monk seal, with a lifespan of around 30 years, feeds on fish, cephalopods, and crustaceans, dwelling mostly in the Northwestern Hawaiian Islands’ beaches and reefs. Endangered due to human impacts, habitat loss, predation, disease, and entanglement, they are the focus of intense conservation efforts by federal agencies and local nonprofits. Public awareness and community involvement are important for their survival.\n\nIf you’d like more in-depth information about any aspect, just let me know!",
+              "type": "web-search"
+            }
+          ],
+          "callId": "toolu_vrtx_012UkJuoXqt3nv1TWGxMLkZT"
+        },
+        {
+          "slug": "bing-search",
+          "status": "completed",
+          "arguments": "{\"user_prompt\": \"Mediterranean monk seal life expectancy diet habitat endangered reasons conservation organizations\"}",
+          "references": [
+            {
+              "query": "Mediterranean monk seal life expectancy diet habitat endangered reasons conservation organizations",
+              "results": [],
+              "agent_response": {
+                "type": "",
+                "text": {
+                  "value": "",
+                  "annotations": null
+                },
+                "bing_searches": null
+              },
+              "response_text": "Here’s a concise guide on the Mediterranean monk seal:\n\n**1. Life Expectancy:**  \nMediterranean monk seals (Monachus monachus) typically live up to **20–30 years** in the wild, though many do not reach old age due to various threats.\n\n**2. Diet:**  \nTheir diet mainly consists of **fish, squid, octopus, crustaceans, and eels**. They are opportunistic feeders and prefer shallow coastal waters where prey is abundant.\n\n**3. Habitat:**  \nThese seals inhabit the **Mediterranean Sea and the eastern Atlantic Ocean** (notably along the coasts of Greece, Turkey, Cyprus, and a few parts of northwest Africa, especially Mauritania and Madeira). They seek out **isolated caves with underwater entrances** for breeding and resting, a shift from their historical use of open beaches, due to human disturbance.\n\n**4. Endangered Reasons:**  \nThe Mediterranean monk seal is **critically endangered** due to:\n- **Habitat destruction** (coastal development and tourism disturbing breeding sites)\n- **Deliberate killing** (by fishermen who see them as competition or because they damage fishing gear)\n- **Overfishing** (reducing their food supply)\n- **Pollution**\n- **Entanglement in fishing gear**\n  \nTheir global population is estimated at around **700 individuals**.\n\n**5. Conservation Organizations:**  \nKey organizations working for their protection include:\n- **MOm—The Hellenic Society for the Study & Protection of the Monk Seal** (Greece)\n- **The Mediterranean Monk Seal Conservation Program (WWF)**\n- **The Monk Seal Alliance**\n- **IUCN/SSC Pinniped Specialist Group**\n- **CBD-Habitat Foundation (Spain/Mauritania)**\n\nThese groups focus on habitat protection, rescue and rehabilitation, community engagement, and influencing policy to protect the species.\n\n**Summary:**  \nThe Mediterranean monk seal is a critically endangered species, living in Mediterranean and eastern Atlantic coastal caves, threatened mainly by human activities. Several NGOs and international bodies are actively involved in their conservation.",
+              "type": "web-search"
+            }
+          ],
+          "callId": "toolu_vrtx_01VdFg95ZFVACq9aTuUCW7JK"
+        }
+      ]
+    }
+  ],
+  "files": {}
+}
