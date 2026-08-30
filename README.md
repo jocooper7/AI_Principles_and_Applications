@@ -10,6 +10,9 @@ This course covers foundational AI concepts, prompt design, and applied best pra
 
 Full documentation for the Module 5 Platformer Game can be found at [cs530_platformer](https://github.com/jocooper7/cs530_platformer).
 
+## Final Project
+The capstone project evaluates GitHub Copilot's effectiveness for code debugging and generation, using Claude's Sonnet 5 model via Copilot. Two flawed code snippets were debugged without manual correction, and a four-function neural network program — a single neuron, a sigmoid/step binary classifier, a synthetic dataset generator, and a weight calculation function — was generated from scratch and evaluated for training accuracy. The accompanying paper benchmarks Copilot against comparable AI coding tools and analyzes the ethical, workforce, security, and privacy implications of adopting AI coding assistants in industry, closing with a tool recommendation for a company handling sensitive healthcare and financial data.
+
 ## Contents
 | Module | Topic | Link |
 |--------|-------|------|
