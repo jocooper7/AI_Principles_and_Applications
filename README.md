@@ -11,14 +11,14 @@ This course covers foundational AI concepts, prompt design, and applied best pra
 Full documentation for the Module 5 Platformer Game can be found at [cs530_platformer](https://github.com/jocooper7/cs530_platformer).
 
 ## Contents
-| Module | Topic |
-|--------|-------|
-| 1 | Comparing AI Models in GitHub Copilot | 
-| 2 | Prompting Technique Analysis | 
-| 3 | AI-Assisted Debugging Efficiency |
-| 4 | Ethical Implications of AI Use | 
-| 5 | AI-Assisted Coding: Platformer Proof of Concept | [cs530_platformer repo](https://github.com/jocooper7/cs530_platformer) |
-| 6 | Secure and Responsible AI Use | 
-| 7 | Preventing Hallucinations in AI-Generated Code | 
-| 8 | Hyperparameter Analysis in Machine Learning and AI Models | 
+| Module | Topic | Link |
+|--------|-------|------|
+| 1 | Comparing AI Models in GitHub Copilot | |
+| 2 | Prompting Technique Analysis | |
+| 3 | AI-Assisted Debugging Efficiency | |
+| 4 | Ethical Implications of AI Use | |
+| 5 | AI-Assisted Coding: Platformer Proof of Concept | [cs530_platformer repo](https://github.com/jocooper7/cs530_platformer) | |
+| 6 | Secure and Responsible AI Use | |
+| 7 | Preventing Hallucinations in AI-Generated Code | |
+| 8 | Hyperparameter Analysis in Machine Learning and AI Models | |
 | 9 | Capstone: AI-Assisted Debugging, Neural Network Fundamentals & Ethical Implications | [Final Project Folder](https://github.com/jocooper7/AI_Principles_and_Applications/tree/fc798c7904c165c322b815407f573dbb5044b3f1/Module%209%20Final) |
