@@ -21,4 +21,4 @@ Full documentation for the Module 5 Platformer Game can be found at [cs530_platf
 | 6 | Secure and Responsible AI Use | 
 | 7 | Preventing Hallucinations in AI-Generated Code | 
 | 8 | Hyperparameter Analysis in Machine Learning and AI Models | 
-| 9 | Final Project | *Coming soon* |
+| 9 | Capstone: AI-Assisted Debugging, Neural Network Fundamentals & Ethical Implications | [Final Project Folder](https://github.com/jocooper7/AI_Principles_and_Applications/tree/fc798c7904c165c322b815407f573dbb5044b3f1/Module%209%20Final) |
